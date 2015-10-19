@@ -13,7 +13,6 @@ public class ProyectoAlfa {
         String hola = teclado.nextLine();
         System.out.println(hola);
         
-        
     }
     
 }
