@@ -12,6 +12,7 @@ public class ProyectoAlfa {
         Scanner teclado =new Scanner(System.in);
         System.out.println("Introduzca una frase");
         String hola = teclado.nextLine();
+        
         JOptionPane.showMessageDialog(null, hola);
         
     }
