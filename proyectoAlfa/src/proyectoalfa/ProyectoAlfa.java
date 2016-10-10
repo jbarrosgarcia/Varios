@@ -14,7 +14,7 @@ public class ProyectoAlfa {
         String hola = teclado.nextLine();
         
         JOptionPane.showMessageDialog(null, hola);
-        
+        //añado un comentario
     }
     
 }
